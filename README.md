@@ -7,7 +7,10 @@ This project leverages the power of computer vision to create an engaging and in
 > For example, a happy expression might trigger a `sunshine effect` , while a sad expression could make it `rain on screen`. It's a fun demonstration of real-time image processing and facial emotion recognition.
 
 ## Demo
-(This is where you should place a GIF of your project. I've included a placeholder link. You will need to record a GIF and replace the URL.)
+
+![ezgif-1ee4b46d6fe5a9 (1)](https://github.com/user-attachments/assets/5f48cd30-5867-4b0a-a1db-34164e90ba67)
+
+
 
 ## Features
 Real-Time Face Detection: Utilizes OpenCV's Haar Cascades to detect faces in the video feed.
